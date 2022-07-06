@@ -1,0 +1,28 @@
+/* overview cards */
+.cards-container{
+    margin:80px auto;
+}
+.over-view-card{
+
+    /* padding:40px ; */
+    border-radius:10px;
+    color: rgb(255, 255, 255);
+    box-shadow: rgba(182, 182, 182, 0.2) 0px 2px 8px 0px;
+    width:350px;
+}
+.inner-card{
+    padding:40px 20px;
+    display: flex;
+}
+.inner-card-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.over-view-card-themed-violet{
+    background-color: var(--purple-500);
+}
+.over-view-card-themed-teal{
+    background-color: var(--teal-shade);
+}

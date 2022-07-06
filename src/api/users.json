@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Mukul",
+      "lastName": "Kumar Bairwa",
+      "username": "Mukul Kumar Bairwa",
+      "email": "mukulbairwa98@gmail.com",
+      "usertoken": 1657087907029,
+      "password": "Mukul12347898Hss@"
+    }
+  ]
+}
